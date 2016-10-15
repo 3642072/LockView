@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lock9ViewDemo/Lock9ViewDemo.iml" filepath="$PROJECT_DIR$/Lock9ViewDemo/Lock9ViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockDemo/LockDemo.iml" filepath="$PROJECT_DIR$/LockDemo/LockDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockView.iml" filepath="$PROJECT_DIR$/LockView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Locklibrary/Locklibrary.iml" filepath="$PROJECT_DIR$/Locklibrary/Locklibrary.iml" />
+    </modules>
+  </component>
+</project>
